@@ -1,1 +1,1 @@
-# algo_lean
+# algo_learn
